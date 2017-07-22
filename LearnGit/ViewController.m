@@ -19,12 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     // first bload
-    
-    // two
-    
-    // three
-    
-    // four
+
 }
 
 
